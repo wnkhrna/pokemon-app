@@ -93,7 +93,7 @@ Using GitHub Pages (Optional)
 
          npm run deploy 
 
-3. Access Your App: Your app will be available at https://your-username.github.io/pokemon-app/. 
+3. Access Your App: Your app will be available at https://wnkhrna.github.io/pokemon-app/. 
 
 Features 
 
