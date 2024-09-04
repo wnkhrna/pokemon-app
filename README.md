@@ -33,7 +33,7 @@ Clone the Repository
 
 - Clone the repository to your local machine using the following command: 
  
-      git clone https://github.com/WanKhairina/pokemon-app.git 
+      git clone https://github.com/wnkhrna/pokemon-app.git 
 
 Navigate to the Project Directory 
 
