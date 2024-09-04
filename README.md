@@ -95,15 +95,6 @@ Using GitHub Pages (Optional)
 
 3. Access Your App: Your app will be available at https://wnkhrna.github.io/pokemon-app/. 
 
-Features 
-
-- Fetch Data: Retrieves Pokémon data from the PokéAPI. 
-- Display Data Beautifully: Uses Bootstrap cards to display Pokémon data in a responsive grid. 
-- Search and Filter: Allows users to search and filter Pokémon by name. 
-- Detailed View: Provides detailed information about each Pokémon. 
-- Edit Pokémon: Allows users to edit Pokémon details and updates the state using Pinia. 
-- Loader Component: Displays a loading spinner while fetching data.  
-
 Contact 
 
 If you have any questions or feedback, please contact me at [wkhairina.00@gmail.com]. 
